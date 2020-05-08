@@ -58,10 +58,3 @@ user@{yours} > `python3 middlewareClient.py`
 Enjoy !
 
 PS : La base de données est fournie avec des utilisateurs pré-construits disposant d'un salaire chiffré (PHE + ORE), libre à vous de les modifier et de jouer avec grâce aux différentes options fournies par le programme.
-
-
-
-## Kévin MOREAU
-
-
-
