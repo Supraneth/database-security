@@ -1,3 +1,20 @@
+# Sécurité des bases de données - Chiffrement du contenu d'une base
+
+## Implémentation d'un chiffrement par relation d'ordre et par chiffrement homomorphique
+
+Ce projet s'inscrit dans le cadre de ma formation à l'ENSIBS de Vannes pour le diplôme d'ingénieur en cyberdéfense.
+Il traite de l'implémentation de deux moyens de chiffrement permettant la confidentialité et l'intégrité des données
+stockées en base de données.
+
+L'intégralité du projet est détaillé dans le fichier *rapportProjet.pdf* fourni.
+
+**Bonne lecture**
+
+
+
+
+
+
 # Guide de déploiement de l'environnement
 
 ## Prérequis : Docker
@@ -40,7 +57,7 @@ user@{yours} > `python3 middlewareClient.py`
 
 Enjoy !
 
-## PS : La base de données est fournie avec des utilisateurs pré-construits disposant d'un salaire chiffré (PHE + ORE), libre à vous de les modifier et de jouer avec grâce aux différentes options fournies par le programme.
+PS : La base de données est fournie avec des utilisateurs pré-construits disposant d'un salaire chiffré (PHE + ORE), libre à vous de les modifier et de jouer avec grâce aux différentes options fournies par le programme.
 
 
 
