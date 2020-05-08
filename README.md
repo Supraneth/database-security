@@ -1,6 +1,6 @@
-#Guide de déploiement de l'environnement
+Guide de déploiement de l'environnement
 
-#Prérequis : Docker
+Prérequis : Docker
 
 ____
 
@@ -40,11 +40,11 @@ user@{yours} > `python3 middlewareClient.py`
 
 Enjoy !
 
-####PS : La base de données est fournie avec des utilisateurs pré-construits disposant d'un salaire chiffré (PHE + ORE), libre à vous de les modifier et de jouer avec grâce aux différentes options fournies par le programme.
+PS : La base de données est fournie avec des utilisateurs pré-construits disposant d'un salaire chiffré (PHE + ORE), libre à vous de les modifier et de jouer avec grâce aux différentes options fournies par le programme.
 
 
 
-####Kévin MOREAU - Florian VALLET
+Kévin MOREAU
 
 
 
